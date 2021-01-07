@@ -1,5 +1,5 @@
-#Ferramenta para marcação no Metatrader5
-###Ao marcar o suporte e resistência a ferramenta multiplicará os suportes e resitências para cima e para baixo, assim conseguindo ver a frequência do mercado, baseado no Darvasbox.
+# Ferramenta para marcação no Metatrader5
+### Ao marcar o suporte e resistência a ferramenta multiplicará os suportes e resitências para cima e para baixo, assim conseguindo ver a frequência do mercado, baseado no Darvasbox.
 - **Criando marcações**
   - Pegue a linha horizontal no MT5 e marque o suporte e a resistência.
   - No canto inferior esquerdo clique em "Criar".
